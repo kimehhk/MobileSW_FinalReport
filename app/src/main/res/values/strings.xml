@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FinalReport_01_20190951</string>
+    <string name="dialog_ok">확인</string>
+    <string name="dialog_cancel">취소</string>
+</resources>
